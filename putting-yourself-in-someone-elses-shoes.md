@@ -42,14 +42,18 @@ Open up your neighbour's website.
   + Go to www.gov.uk and try navigating around, using only your keyboard, until you feel comfortable with the functionality of ChromeVox
   + Click on the tab/window that contains your neighbour's website
   + Close your eyes!
-  + Navigate the site using only ChromeVox to help you
+  + Navigate the site using only ChromeVox to help you  
 
-Note: You can disable ChromeVox with ctrl+alt+z or going to Settings -> Extensions, finding ChromeVox and ticking disable.
+  Note: You can disable ChromeVox with ctrl+alt+z or going to Settings -> Extensions, finding ChromeVox and ticking disable.  
 
-Try step 3 again with someone else's website.
+  Try step 3 again with someone else's website.
 
+4. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
+  + Run an audit on your neighbour's website
+  + Use the clickable links to find out what the problems are and what can be done about them
+  + Raise an issue on your neighbour's website for each newly discovered problem
 
-Don't forget, [accessibility isn't only about the blind](http://a11yproject.com/posts/myth-accessibility-is-blind-people/). More to come as this repo is developed.
+Once you're finished, head to your own website and start fixing bugs! :bug:
 
 ## Tools that can help
 Bare in mind this advice from Government Digital Services (GDS):
