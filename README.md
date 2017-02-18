@@ -61,7 +61,9 @@ Assistive technologies for these users include, but are not limited to:
 + single-switch access
 
 ## Workshop
-[Enough talking, let's get interactive](./workshop.md)
+Getting into good habits early-on always makes you a better developer. Baking accessibility into the way you write code should be thought of in the same way as proper indentation - it's a given, not a "nice to have".
+
+Start putting this into practice by [putting yourself in someone else's shoes](./putting-yourself-in-someone-elses-shoes.md)
 
 ## Designing for full inclusivity, not just for the majority
 It's worth remembering that accesibility in the broader sense can also refer to a wider variety of situations. For example, accessiblity affects users who:

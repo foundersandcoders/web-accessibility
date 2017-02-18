@@ -1,4 +1,4 @@
-# Accessibility Workshop
+# Putting yourself in someone else's shoes
 
 The following stats are taken from WHO (World Health Organisation):
 
@@ -6,6 +6,7 @@ The following stats are taken from WHO (World Health Organisation):
 
 Even if we hear about the number of people who experience these disabilities, developers often mistakenly believe that these people aren't within their own userbase.
 
+## Visual
 > 285 million people are visually impaired worldwide
 
 That's nearly 4 times the population size of the UK and Israel combined
@@ -16,6 +17,7 @@ That's nearly 4 times the population size of the UK and Israel combined
 
 This age group constitutes 20% of the world, and many developing countries have an aging population
 
+### Exercises
 Think about your own website. Have you written it under the assumption that your users will be accessing your content with a mouse?
 
 **Pair up with someone new, preferably someone whose website you haven't seen before.**
@@ -36,25 +38,27 @@ Think about your own website. Have you written it under the assumption that your
 
 Note: You can disable ChromeVox with Shift+Alt or going to Settings -> Extensions, finding ChromeVox and ticking disable.
 
+> 246 million have low vision
+
+## Exercises
 
 But [accessibility isn't only about the blind](http://a11yproject.com/posts/myth-accessibility-is-blind-people/).
 
-> 246 million have low vision
 
-Is your site
-
-
+## Hearing
 > 360 million suffer from hearing loss
 
-// motor
+### Exercises
+
+## Motor
 
 Don't make clickable elements too small or too close together
 
 If you’re stuck with a moving interface though, there’s a quick workaround – include an obvious pause button to freeze the movement. Alternatively, as Marc Ecko has done, include a separate static version of the navigation.
 
+### Exercises
 
-// cognitive
-
+## Cognitive
 
 Is your site dense with text, or do you break this up
 
@@ -62,6 +66,4 @@ Animation or movement is distracting - it's not easy to keep your eye on the tex
 
 Unanounced movement, especially auto-playing video - cause actual distress for people who aren’t able to cope with sudden unexpected change, due to conditions such as autistic spectrum
 
-
-
-Getting into good habits early on, always makes you a better developer.
+### Exercises
