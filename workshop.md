@@ -1,5 +1,4 @@
 # Accessibility Workshop
-**Pair up with someone new, preferably someone whose website you haven't seen before.**
 
 The following stats are taken from WHO (World Health Organisation):
 
@@ -18,6 +17,8 @@ That's nearly 4 times the population size of the UK and Israel combined
 This age group constitutes 20% of the world, and many developing countries have an aging population
 
 Think about your own website. Have you written it under the assumption that your users will be accessing your content with a mouse?
+
+**Pair up with someone new, preferably someone whose website you haven't seen before.**
 
 **Open up your neighbour's website.**
 
