@@ -98,6 +98,7 @@ and from WebAIM:
 
 So be savvy when you use the following tools. They are no substitute for learning your craft. But using a variety of tools to test different aspects can at least help you while you're learning:
 
+[HTML validator](https://validator.w3.org/)
 [Tenon.io](https://tenon.io/) - website  
 [Wave - the chrome extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) - more convenient  
 [Wave - the website](http://wave.webaim.org/) - if you don't want to download yet another extension   
