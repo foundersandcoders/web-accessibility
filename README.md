@@ -1,6 +1,6 @@
 # Web Accessibility
 1. [What does accessibility mean?](#what-does-accessibility-mean)
-2. [How do I know whether my site is accessible?](#how-do-I-know-whether-my-site-is-accessible)
+2. [How do I know whether my site is accessible?](#how-do-i-know-whether-my-site-is-accessible)
   + [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
   + [WAI-ARIA](#wai-aria)
 
