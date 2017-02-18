@@ -25,8 +25,8 @@ Think about your own website. Have you written it under the assumption that your
 1. Try accessing every piece of content on the site using only your keyboard.
 
 2. Download the [HTML 5 outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en) chrome extension. Then go back to the website and click on the new icon in your toolbar.
-  + Is the content semantic?  
-  Screen reader users navigate the page based on the order of the elements in the DOM. Does the order look sensible?
+  + Is the content semantic?
+  + Screen reader users navigate the page based on the order of the elements in the DOM. Does the order look sensible?
 
 3. Put in your earphones. Then download the [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) chrome extension. Don't go back to your neighbour's website yet!
   + Go to www.gov.uk and try navigating around, using only your keyboard, until you feel comfortable with the functionality of ChromeVox
@@ -38,3 +38,30 @@ Note: You can disable ChromeVox with Shift+Alt or going to Settings -> Extension
 
 
 But [accessibility isn't only about the blind](http://a11yproject.com/posts/myth-accessibility-is-blind-people/).
+
+> 246 million have low vision
+
+Is your site
+
+
+> 360 million suffer from hearing loss
+
+// motor
+
+Don't make clickable elements too small or too close together
+
+If you’re stuck with a moving interface though, there’s a quick workaround – include an obvious pause button to freeze the movement. Alternatively, as Marc Ecko has done, include a separate static version of the navigation.
+
+
+// cognitive
+
+
+Is your site dense with text, or do you break this up
+
+Animation or movement is distracting - it's not easy to keep your eye on the text with all of that distraction. (ADHD) Particularly if it is happening behind/right next to the form I am filling in.
+
+Unanounced movement, especially auto-playing video - cause actual distress for people who aren’t able to cope with sudden unexpected change, due to conditions such as autistic spectrum
+
+
+
+Getting into good habits early on, always makes you a better developer.
