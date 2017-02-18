@@ -65,6 +65,8 @@ Getting into good habits early-on always makes you a better developer. Baking ac
 
 Start putting this into practice by [putting yourself in someone else's shoes](./putting-yourself-in-someone-elses-shoes.md)
 
+Don't forget, [accessibility isn't only about the blind](http://a11yproject.com/posts/myth-accessibility-is-blind-people/). More to come as this repo is developed.
+
 ## Designing for full inclusivity, not just for the majority
 It's worth remembering that accesibility in the broader sense can also refer to a wider variety of situations. For example, accessiblity affects users who:
 + have a low level of fluency in [the most prevalent languages on the web](http://www.internetworldstats.com/stats7.htm)
