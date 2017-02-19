@@ -56,7 +56,13 @@ Open up your neighbour's website.
 4. Try this again with someone else's website.
 
 5. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
-  + Run an audit on your neighbour's website
+  + Run an audit on your neighbour's website:  
+    1. Open dev tools (as normal)  
+    2. Click on the new "Audit" tab
+    3. Check the "Accessibility" box
+    4. Click Run  
+
+  ![](./images/axs-dev-tools.png)
   + Use the clickable links to find out what the problems are and what can be done about them
   + Raise an issue on your neighbour's website for each newly discovered problem
 
