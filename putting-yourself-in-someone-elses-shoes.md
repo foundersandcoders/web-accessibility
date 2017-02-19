@@ -67,7 +67,7 @@ Open up your neighbour's website.
   ![](./images/clickable-links.png)
   + Raise an issue on your neighbour's website for each newly discovered problem
 
-Once you're finished, head to your own website and start fixing bugs! :bug:
+6. Head to your own website, have a look at the issues, and start fixing bugs! :bug:
 
 ## Tools that can help
 Bare in mind this advice from Government Digital Services (GDS):
