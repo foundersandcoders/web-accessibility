@@ -44,16 +44,17 @@ Open up your neighbour's website.
   + Screen reader users navigate the page based on the order of the elements in the DOM. Does the order look sensible?
 
 3. Put in your earphones. Then download the [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) chrome extension. Don't go back to your neighbour's website yet!
-  + Go to www.gov.uk and try navigating around, using only your keyboard, until you feel comfortable with the functionality of ChromeVox
+  + Go to [www.gov.uk](https://www.gov.uk/) and try navigating around, using only your keyboard, until you feel comfortable with the functionality of ChromeVox  
+  To learn the necessary keyboard shortcuts, find ChromVox in your extensions and click on "Options"  
+  ![](./images/chromevox-options.png)
   + Click on the tab/window that contains your neighbour's website
-  + Close your eyes!
-  + Navigate the site using only ChromeVox to help you  
+  + Close your eyes! Then try navigating the site using only ChromeVox to help you. Can you get to all the content?  
 
-  Note: You can disable ChromeVox with ctrl+alt+z or going to Settings -> Extensions, finding ChromeVox and ticking disable.  
+  Note: You can disable the voice by clicking `Ctrl`, or disable ChromeVox altogether with `ctrl`+`alt`+`z` (or going to Settings -> Extensions, find ChromeVox and tick the "disable" checkbox).  
 
-  Try step 3 again with someone else's website.
+4. Try this again with someone else's website.
 
-4. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
+5. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
   + Run an audit on your neighbour's website
   + Use the clickable links to find out what the problems are and what can be done about them
   + Raise an issue on your neighbour's website for each newly discovered problem
