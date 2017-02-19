@@ -40,6 +40,7 @@ Open up your neighbour's website.
 1. Try accessing every piece of content on the site using only your keyboard.
 
 2. Download the [HTML 5 outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en) chrome extension. Then go back to the website and click on the new icon in your toolbar.
+![](./images/extensions.png)
   + Is the content semantic?
   + Screen reader users navigate the page based on the order of the elements in the DOM. Does the order look sensible?
 
