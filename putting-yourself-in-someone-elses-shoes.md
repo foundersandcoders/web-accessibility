@@ -1,11 +1,16 @@
 # Putting yourself in someone else's shoes
+
+> Have you ever thought of the Internet as being "essential" or "a lifeline for many disabled people?" Think about it for a minute. There are certain things that people with disabilities simply cannot do for themselves. But, if they can use a computer connected to the world via the Internet, they have a high degree of independence. They can read the news, research areas of interest, purchase supplies, and access the world—at least potentially. They are independent as long as the sites that they want to access are designed to permit disability access.
+
+from a WebAIM [article](http://webaim.org/articles/motor/)
+
 + [Stats](#some-statistics)
 + [Exercises](#exercises)
 + [Tools that can help](tools-that-can-help)
   + [What these tools check for](#what-these-tools-check-for)
 
 ## Some statistics
-The following stats are taken from WHO (World Health Organisation):
+The following stats are taken from WHO (World Health Organisation) [research](http://www.who.int/mediacentre/factsheets/fs282/en/):
 
 > About 90% of people with the disabilities in the list above, live in the developing world.
 
@@ -15,18 +20,18 @@ Even if we hear about the number of people who experience these disabilities, de
 
 That's nearly 4 times the population size of the UK and Israel combined
 
-> 39 million of these are blind
+> 39 million of these are [blind](http://webaim.org/articles/visual/blind)
 
 >   + 82% of blind people are over 50 years old
 
 This age group constitutes 20% of the world, and many developing countries have an aging population
 
-> 246 million have low vision
+> 246 million have [low vision](http://webaim.org/articles/visual/lowvision)
 
-> 360 million suffer from hearing loss
+> 360 million suffer from [hearing loss](http://webaim.org/articles/auditory/)
 
 ### Exercises
-Think about your own website. Have you written it under the assumption that your users will be accessing your content with a mouse?
+Think about your own website. Have you written it under the assumption that your users will be accessing your content with a mouse? Have you been relying on colour to convey meaning? Did you think about captions or transcripts for your audio content?
 
 **Pair up with someone new, preferably someone whose website you haven't seen before.**
 
