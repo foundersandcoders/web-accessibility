@@ -4,8 +4,8 @@
   + [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
   + [WAI-ARIA](#wai-aria)
 3. [But who is this really going to impact?](#but-who-is-this-really-going-to-impact)
-4. [Workshop](#putting-yourself-in-someone-elses-shoes)
-  + [Tools that can help](./putting-yourself-in-someone-elses-shoes.md#tools-that-can-help)
+4. [Workshop](#workshop)
+  + [Tools that can help](./tools-that-can-help.md)
 5. [Designing for full inclusivity, not for the majority](designing-for-full-inclusivity-not-for-the-majority)
 
 
