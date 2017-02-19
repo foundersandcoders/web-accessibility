@@ -63,7 +63,8 @@ Open up your neighbour's website.
     4. Click Run  
 
   ![](./images/axs-dev-tools.png)
-  + Use the clickable links to find out what the problems are and what can be done about them
+  + Use the clickable links to find out what the problems are and what can be done about them  
+  ![](./images/clickable-links.png)
   + Raise an issue on your neighbour's website for each newly discovered problem
 
 Once you're finished, head to your own website and start fixing bugs! :bug:
