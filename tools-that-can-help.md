@@ -8,7 +8,7 @@ and from WebAIM:
 So be savvy when you use the following tools. They are no substitute for learning your craft. But using a variety of tools to test different aspects can at least help you while you're learning:
 
 ### HTML checkers
-[HTML validator](https://validator.w3.org/) (website) - fairly comprehensive  
+[HTML validator](https://validator.w3.org/nu/) (website) - fairly comprehensive  
 [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/) (website)
 
 ### All in one - [see a summary of what these tools check for](#what-these-tools-check-for)
