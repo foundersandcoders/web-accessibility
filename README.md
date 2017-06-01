@@ -1,3 +1,6 @@
+**Author**: [@jsms90](https://github.com/jsms90)  
+**Maintainer**: [@jsms90](https://github.com/jsms90)
+
 # Web Accessibility
 1. [What does accessibility mean?](#what-does-accessibility-mean)
 2. [How do I know whether my site is accessible?](#how-do-i-know-whether-my-site-is-accessible)
