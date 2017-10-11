@@ -66,12 +66,12 @@ Open up your neighbour's website.
 5. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
   + Run an audit on your neighbour's website:  
     1. Open dev tools (as normal)  
-    2. Click on the new "Audit" tab
+    2. Click on the new "Audits" tab
     3. Click Perform an audit
     ![](./images/dev-tools-audit.png)
 
     4. Check the "Accessibility" box
-    5. Click Run  
+    5. Click Run audit
     ![](./images/dev-tools-audit2.png)
 
   + Use the clickable links to find out what the problems are and what can be done about them, and view failing elements to know where there problems are in the code.
