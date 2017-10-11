@@ -10,13 +10,12 @@ from a WebAIM [article](http://webaim.org/articles/motor/)
 + [Tools that can help](tools-that-can-help)
   + [What these tools check for](#what-these-tools-check-for)
 
+## Why should we car
 
 ## Different Perspectives
 How would you use your computer if your mouse was broken? probably you would try to fix it immediately, but have you ever wondered how people with physical disability use the computer?
 Being able to navigate websites using a keyboard because of temporarily or a permanent disability or simply because of a broken mouse is 1 of 10 different perspectives you mostly haven't seen web applications through them before.
 Check this video to see [The 10 Different Web Accessibility Perspectives ](https://www.youtube.com/watch?v=3f31oufqFSM).
-
-For people with visual, motor, hearing or cognitive impairments the web is an important resource for him/her in many aspects of life : education, employment, government, commerce, health care, recreation, and more. that's why it's important to provide **equal access** and **equal opportunities** to people with disabilities to help them participate more actively in society.
 
 ## Some statistics
 The following stats are taken from WHO (World Health Organisation) [research](http://www.who.int/mediacentre/factsheets/fs282/en/):
@@ -68,12 +67,15 @@ Open up your neighbour's website.
   + Run an audit on your neighbour's website:  
     1. Open dev tools (as normal)  
     2. Click on the new "Audit" tab
-    3. Check the "Accessibility" box
-    4. Click Run  
+    3. Click Perform an audit
+    ![](./images/dev-tools-audit.png)
 
-  ![](./images/axs-dev-tools.png)
-  + Use the clickable links to find out what the problems are and what can be done about them  
-  ![](./images/clickable-links.png)
+    4. Check the "Accessibility" box
+    5. Click Run  
+    ![](./images/dev-tools-audit2.png)
+
+  + Use the clickable links to find out what the problems are and what can be done about them, and view failing elements to know where there problems are in the code.
+  ![](./images/failing-elements.png)
   + Raise an issue on your neighbour's website for each newly discovered problem
 
 6. Head to your own website, have a look at the issues, and start fixing bugs! :bug:
