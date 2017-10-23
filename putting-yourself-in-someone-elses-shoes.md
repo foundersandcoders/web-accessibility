@@ -10,7 +10,7 @@ from a WebAIM [article](http://webaim.org/articles/motor/)
 + [Tools that can help](tools-that-can-help)
   + [What these tools check for](#what-these-tools-check-for)
 
-## Why should we car
+## Why should we care?
 
 ## Different Perspectives
 How would you use your computer if your mouse was broken? probably you would try to fix it immediately, but have you ever wondered how people with physical disability use the computer?
