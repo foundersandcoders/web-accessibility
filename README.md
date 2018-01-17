@@ -32,7 +32,7 @@ You should follow the guidelines that have been developed by the Worldwide Web C
 
 _If any of these are not true, users with disabilities will not be able to use the Web._
 
-WCAG have different compliancy levels: A, AA and AAA. By reaching the AA standard, a company can call itself "WCAG 2.0 AA" compliant. Depending on who the company is, they may need to comply with a certain standard by law.
+WCAG have different compliance levels: A, AA and AAA. By reaching the AA standard, a company can call itself "WCAG 2.0 AA" compliant. Depending on who the company is, they may need to comply with a certain standard by law.
 
 #### WAI-ARIA
 The Accessible Rich Internet Applications specifications were developed by the Web Accessibility Initiative (WAI) of W3C.
@@ -71,7 +71,7 @@ Start putting this into practice by [putting yourself in someone else's shoes](.
 Don't forget, [accessibility isn't only about the blind](http://a11yproject.com/posts/myth-accessibility-is-blind-people/). More to come as this repo is developed.
 
 ## Designing for full inclusivity, not just for the majority
-It's worth remembering that accesibility in the broader sense can also refer to a wider variety of situations. For example, accessiblity affects users who:
+It's worth remembering that accessibility in the broader sense can also refer to a wider variety of situations. For example, accessibility affects users who:
 + have a low level of fluency in [the most prevalent languages on the web](http://www.internetworldstats.com/stats7.htm)
 + are new to technology
 + experience low internet speeds

@@ -14,7 +14,7 @@ from a WebAIM [article](http://webaim.org/articles/motor/)
 
 ## Different Perspectives
 How would you use your computer if your mouse was broken? probably you would try to fix it immediately, but have you ever wondered how people with physical disability use the computer?
-Being able to navigate websites using a keyboard because of temporarily or a permanent disability or simply because of a broken mouse is 1 of 10 different perspectives you mostly haven't seen web applications through them before.
+Being able to navigate websites using a keyboard because of temporary or a permanent disability or simply because of a broken mouse is 1 of 10 different perspectives you mostly haven't seen web applications through them before.
 Check this video to see [The 10 Different Web Accessibility Perspectives ](https://www.youtube.com/watch?v=3f31oufqFSM).
 
 ## Some statistics
