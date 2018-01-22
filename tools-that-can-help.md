@@ -1,5 +1,5 @@
 ## Tools that can help
-Bare in mind this advice from Government Digital Services (GDS):
+Bear in mind this advice from Government Digital Services (GDS):
 > You must not solely rely on using automated tools to check accessibility - they can only find 20% to 30% of issues.
 
 and from WebAIM:
@@ -16,7 +16,7 @@ So be savvy when you use the following tools. They are no substitute for learnin
 [Wave - the chrome extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) - not as visually appealing, but does contain more thorough description that is directly related to W3C's advice, with links
 [Wave - the website, in case you don't want to download yet another extension](http://wave.webaim.org/)  
 [Tota11y](https://chrome.google.com/webstore/detail/tota11y-chrome-extension/jbhkjcigeionejpngkcdccblocdnjini?hl=en) (chrome extension) developed by Khan Academy  
-[a11y](https://addyosmani.com/a11y/) (command line tools) - especialy useful once you're writing backend code and running scripts using your command line, you never have to leave the terminal
+[a11y](https://addyosmani.com/a11y/) (command line tools) - especially useful once you're writing backend code and running scripts using your command line, you never have to leave the terminal
 
 ### The ones you will have downloaded during the workshop  
 [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) (chrome extension) - sits inside your dev tools rather than the toolbar, so easy to switch between the accessibility audits and changing your code  
