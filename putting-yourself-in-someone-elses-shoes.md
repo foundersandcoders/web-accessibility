@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=3f31oufqFSM
 When building websites, we must be careful not to assume that everyone using it is abled bodied. your users may not be able to use a mouse, or may be visually impared. 
 
 
-1. Navigate to [visitpalestine.ps](http://visitpalestine.ps/) . Try accessing the website using only your keyboard. Find the number for the H2 hostel in Hebron without using your mouse (the path = menu - where to go - hebron - hotels - H2 hostel)
+1. Navigate to [visitpalestine.ps](http://visitpalestine.ps/) . Try accessing the website using only your keyboard. Find the number for the H2 hostel in Hebron without using your mouse (menu -> where to go -> hebron -> hotels -> H2 hostel)
 
 2. Download the [HTML 5 outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en) chrome extension. Then go back to the website and click on the new icon in your toolbar.
 ![](./images/extensions.png)
@@ -21,7 +21,7 @@ When building websites, we must be careful not to assume that everyone using it 
   + Go to any website of your choice and try navigating around, using only your keyboard, until you feel comfortable with the functionality of ChromeVox.
   To learn the necessary keyboard shortcuts, find ChromVox in your extensions and click on "Options"  
   ![](./images/chromevox-options.png)
-  + now when you feel comfortable go back to http://visitpalestine.ps/ and close your eyes! Then try navigating the site using only ChromeVox to help you. with your eyes closed find out how much the embroidered bottle carrier is. (path = menu - online store - apparel & accessories - embroidered bottle carrier). 
+  + now when you feel comfortable go back to http://visitpalestine.ps/ and close your eyes! Then try navigating the site using only ChromeVox to help you. with your eyes closed find out how much the embroidered bottle carrier is. (menu -> online store -> apparel & accessories -> embroidered bottle carrier). 
 
   Note: You can disable the voice by clicking `Ctrl`, or disable ChromeVox altogether with `ctrl`+`alt`+`z` (or going to Settings -> Extensions, find ChromeVox and tick the "disable" checkbox).  
 
