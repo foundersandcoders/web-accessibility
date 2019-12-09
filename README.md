@@ -39,7 +39,7 @@ The Accessible Rich Internet Applications specifications were developed by the W
 
 It provides a set of widgets and new CSS attributes to use in your HTML, which allow your web application to be interpreted by assistive technologies such as screenreaders.
 
-Learn the beginnings of Aria by looking at the links in [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/resources.md)
+Learn the beginnings of Aria by looking at the links in [resources](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/week-1/resources)
 
 ### But who is this really going to impact?
 Most of the time when people talk about accessibility, they're talking about people with the following disabilities (permanent or temporary):
