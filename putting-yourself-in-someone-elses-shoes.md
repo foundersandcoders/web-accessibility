@@ -66,7 +66,7 @@ Open up your neighbour's website.
 5. Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)  
   + Run an audit on your neighbour's website:  
     1. Open dev tools (as normal)  
-    2. Click on the new "Audits" tab
+    2. Click on the "Lighthouse" tab (this was "Audits" until a recent update)
     3. Click Perform an audit
     ![](./images/dev-tools-audit.png)
 
